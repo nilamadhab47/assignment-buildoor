@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment-buildoor/static/css/main.06cb235d.chunk.css",
+    "main.js": "/assignment-buildoor/static/js/main.d6562d4a.chunk.js",
+    "main.js.map": "/assignment-buildoor/static/js/main.d6562d4a.chunk.js.map",
+    "runtime-main.js": "/assignment-buildoor/static/js/runtime-main.5c858a04.js",
+    "runtime-main.js.map": "/assignment-buildoor/static/js/runtime-main.5c858a04.js.map",
+    "static/js/2.05491815.chunk.js": "/assignment-buildoor/static/js/2.05491815.chunk.js",
+    "static/js/2.05491815.chunk.js.map": "/assignment-buildoor/static/js/2.05491815.chunk.js.map",
+    "static/js/3.122248a9.chunk.js": "/assignment-buildoor/static/js/3.122248a9.chunk.js",
+    "static/js/3.122248a9.chunk.js.map": "/assignment-buildoor/static/js/3.122248a9.chunk.js.map",
+    "index.html": "/assignment-buildoor/index.html",
+    "static/css/main.06cb235d.chunk.css.map": "/assignment-buildoor/static/css/main.06cb235d.chunk.css.map",
+    "static/js/2.05491815.chunk.js.LICENSE.txt": "/assignment-buildoor/static/js/2.05491815.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/assignment-buildoor/static/media/avatar.749667cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c858a04.js",
+    "static/js/2.05491815.chunk.js",
+    "static/css/main.06cb235d.chunk.css",
+    "static/js/main.d6562d4a.chunk.js"
+  ]
+}
